@@ -1,0 +1,18 @@
+   
+     <!-- link five -->
+    <div class="subs five">
+    <i class="sf sf-location" aria-hidden="true"></i>
+    <a href="/yourlink">location</a>
+    </div>
+    
+    <!-- link six -->
+    <div class="subs six">
+    <i class="sf sf-star" aria-hidden="true"></i>
+    <a href="/yourlink">favorites</a>
+    </div>
+    
+    <!-- link seven -->
+    <div class="subs seven">
+    <i class="sf sf-calendar" aria-hidden="true"></i>
+    <a href="/archive">history</a>
+    </div>
